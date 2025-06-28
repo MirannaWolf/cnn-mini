@@ -66,9 +66,6 @@ cnn-mnist/
 ├── cnn_mnist_gpu_drawing.ipynb  # Основной ноутбук
 ├── README.md                    # Документация
 ├── requirements.txt             # Зависимости
-└── assets/                      # Дополнительные файлы
-    ├── example_digit.png        # Пример нарисованной цифры
-    └── screenshot_canvas.png    # Скриншот интерфейса
 ```
 
 ---
